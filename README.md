@@ -43,10 +43,9 @@ High Resolution Images of Mars Hemisphers (4)
 
 # Screen Shot of HTML Output
 
-![HTML Output Screen Shot](https://user-images.githubusercontent.com/48166327/61414981-4e1ae880-a8a4-11e9-8821-b00740af61e3.PNG)
+![HTML Output Screen Shot](https://user-images.githubusercontent.com/48166327/61418815-afe14f80-a8b0-11e9-88d1-f58987c7785f.PNG)
 
-
-![HTML Output Screen Shot (2)](https://user-images.githubusercontent.com/48166327/61413320-0abe7b00-a8a0-11e9-8a34-82c108e80e87.PNG)
+![HTML Output Screen Shot (2)](https://user-images.githubusercontent.com/48166327/61418820-b40d6d00-a8b0-11e9-99b3-f9e8ffd54bca.PNG)
 
 
 # MongoDB database
