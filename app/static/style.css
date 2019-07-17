@@ -1,3 +1,4 @@
+
 h1 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
@@ -40,26 +41,6 @@ p {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px; 
-}
-
-.boxed {
-    border: 10px solid gray ;
-} 
-
-.table { 
-    width:100% !important;
-
-}
-
-.weather {
-    background-color: grey;
-    color: black;
-    border: 5px solid black;
-}
-
-
-.hemisphere-titles {
-    text-align: center;
 }
 
 
