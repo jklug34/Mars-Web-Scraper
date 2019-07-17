@@ -41,7 +41,7 @@
           <div class="panel-body weather boxed">
             <h4><strong>Current Weather on Mars</strong></h4>
             <br>
-            <h4>{{ mars_data.mars_weather }}</h4>
+            <h5>{{ mars_data.mars_weather }}</h5>
             <br>
           </div>
         </div>
@@ -54,7 +54,7 @@
               <h4><strong>Mars Facts</strong></h4>
               <br>
               <table class="table table-striped table table-bordered table table-hover">
-                {{ mars_data.mars_facts_data | safe }}
+                <h6><strong>{{ mars_data.mars_facts_data | safe }}</strong></h6>
               </table>
 
               <br>

@@ -17,6 +17,18 @@ h4 {
     
 }
 
+h5 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h6 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
 
 img {
     width:100% !important;
@@ -31,8 +43,24 @@ p {
 }
 
 .boxed {
-    border: 1px solid gray ;
+    border: 10px solid gray ;
 } 
+
+.table { 
+    width:100% !important;
+
+}
+
+.weather {
+    background-color: grey;
+    color: black;
+    border: 5px solid black;
+}
+
+
+.hemisphere-titles {
+    text-align: center;
+}
 
 
 
